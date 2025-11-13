@@ -1,0 +1,22 @@
+21
+57C:\Users\qaisa\Desktop\DevOps_campus_events\.dockerignore134075272973727882 0
+54C:\Users\qaisa\Desktop\DevOps_campus_events\.gitignore134075272973737921 0
+56C:\Users\qaisa\Desktop\DevOps_campus_events\package.json134075277140872503 0
+48C:\Users\qaisa\Desktop\DevOps_campus_events\dist134075279341025593 1
+58C:\Users\qaisa\Desktop\DevOps_campus_events\src\about.html134075272973783179 0
+54C:\Users\qaisa\Desktop\DevOps_campus_events\Dockerfile134075272973747864 0
+47C:\Users\qaisa\Desktop\DevOps_campus_events\src134075272973823344 1
+53C:\Users\qaisa\Desktop\DevOps_campus_events\README.md134075272973757902 0
+59C:\Users\qaisa\Desktop\DevOps_campus_events\src\events.html134075276308583448 0
+50C:\Users\qaisa\Desktop\DevOps_campus_events\styles134075272973843348 1
+60C:\Users\qaisa\Desktop\DevOps_campus_events\styles\style.css134075272973843348 0
+60C:\Users\qaisa\Desktop\DevOps_campus_events\src\contact.html134075272973793195 0
+60C:\Users\qaisa\Desktop\DevOps_campus_events\src\gallery.html134075272973813352 0
+58C:\Users\qaisa\Desktop\DevOps_campus_events\src\index.html134075272973823344 0
+59C:\Users\qaisa\Desktop\DevOps_campus_events\dist\about.html134075279340415124 0
+61C:\Users\qaisa\Desktop\DevOps_campus_events\dist\contact.html134075279340572630 0
+61C:\Users\qaisa\Desktop\DevOps_campus_events\dist\gallery.html134075279340572630 0
+82C:\Users\qaisa\Desktop\DevOps_campus_events\dist\DevOps_campus_events.81fdcb4c.css134075279340814190 0
+86C:\Users\qaisa\Desktop\DevOps_campus_events\dist\DevOps_campus_events.81fdcb4c.css.map134075279340989155 0
+60C:\Users\qaisa\Desktop\DevOps_campus_events\dist\events.html134075279340814190 0
+59C:\Users\qaisa\Desktop\DevOps_campus_events\dist\index.html134075279340794048 0
