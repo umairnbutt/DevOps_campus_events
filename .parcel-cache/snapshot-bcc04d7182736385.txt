@@ -1,0 +1,22 @@
+21
+73C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\.dockerignore134075241851371842 0
+70C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\Dockerfile134075241851371842 0
+66C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\styles134075241851423433 1
+72C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\package.json134075266521682708 0
+70C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\.gitignore134075241851371842 0
+64C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist134075266769541825 1
+69C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\README.md134075241851371842 0
+63C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src134075241851423433 1
+76C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\styles\style.css134075241851423433 0
+74C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src\about.html134075241851371842 0
+76C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src\contact.html134075260109651290 0
+75C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src\events.html134075241851371842 0
+76C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src\gallery.html134075241851423433 0
+74C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\src\index.html134075241851423433 0
+75C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\about.html134075266769154183 0
+77C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\contact.html134075266769455198 0
+98C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\DevOps_campus_events.81fdcb4c.css134075266769455198 0
+102C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\DevOps_campus_events.81fdcb4c.css.map134075266769541825 0
+76C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\events.html134075266768956484 0
+77C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\gallery.html134075266768852977 0
+75C:\Users\myasi\OneDrive\Desktop\devops\DevOps_campus_events\dist\index.html134075266769455198 0
